@@ -49,10 +49,10 @@ As a dedicated developer, I bring a practical and innovative approach to technol
 
 ## Screenshots
 
-![Screenshot 1](./public/images/Jobs.png)
-![Screenshot 2](./public/images/Companies.png)
-![Screenshot 3](./public/images/Dashboard.png)
-![Screenshot 4](./public/images/Wireframe.png)
+![Screenshot 1](./images/Jobs.png)
+![Screenshot 2](./images/Companies.png)
+![Screenshot 3](./images/Dashboard.png)
+![Screenshot 4](./images/Wireframe.png)
 
 ## Installation
 
