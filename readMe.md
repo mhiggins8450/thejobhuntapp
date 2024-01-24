@@ -1,6 +1,6 @@
 # The Job Hunt
 
-Discover a revolutionary job board application that redefines the job search and recruitment experience. Our cutting-edge platform harnesses the power of Node.js and integrates with leading job listing APIs like Adzuna, USAJobs, Himalayas, and CareerOneStop, offering an extensive array of career opportunities. With a secure and scalable backend built on MongoDB and Express.js, we prioritize data integrity and efficiency. Our commitment to security includes advanced features such as bcrypt for password protection and dotenv for safeguarding sensitive information. Join us in embracing the future of job hunting and recruitment, where innovation and user experience converge to create a seamless and dynamic marketplace for job seekers and employers alike.
+As a dedicated developer, I bring a practical and innovative approach to technology solutions in the job market. This repository showcases a job board application I've developed using Node.js, integrating smoothly with APIs like Adzuna and USAJobs to provide a user-friendly platform. My focus in backend development is on creating stable and secure systems using MongoDB and Express.js. The security measures I've implemented, including bcrypt and dotenv, are a reflection of my commitment to data protection. My work is designed to offer effective solutions in job search and recruitment, demonstrating my capability as a reliable contributor to technology teams.
 
 ## How to Use
 
